@@ -2,14 +2,14 @@
 
 
 
-# Sejal Choudhary
+# Sajanraj T D
 
-[![Twitter Badge](https://img.shields.io/badge/-@sejalchoudhary9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SejalChoudhary9)](https://twitter.com/SejalChoudhary9) [![Linkedin Badge](https://img.shields.io/badge/-sejalchoudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal-choudhary-9a33ab170/)](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/) 
-[![Gmail Badge](https://img.shields.io/badge/-sejalc230@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](sejalc230@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/sajanraj?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajanraj-t-d-723226111/)](https://www.linkedin.com/in/sajanraj-t-d-723226111/) 
+[![Gmail Badge](https://img.shields.io/badge/-sajanraj.t.d@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajanraj.t.d@gmail.com)](sajanraj.t.d@gmail.com)
 ---
 ### Hola Amigo👋
 ---
-I am Sejal Choudhary, a Computer Science and Engineering Undergrad at Banasthali Vidyapith :student:. I am a Programmer, and always excited to learn new stuffs. 
+I am Sajanraj, a Computer Science and Engineering :student:. I am a Programmer, and always excited to learn new stuffs. 
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
@@ -21,15 +21,3 @@ Programmer (noun): A machine that turns coffee into code.
 
 ```
 
-
-<--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
