@@ -4,7 +4,7 @@
 
 # Sajanraj T D
 
-[![Linkedin Badge](https://img.shields.io/badge/sajanraj?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajanraj-t-d-723226111/)](https://www.linkedin.com/in/sajanraj-t-d-723226111/) 
+[![Linkedin Badge](https://img.shields.io/badge/sajanraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajanraj-t-d-723226111/)](https://www.linkedin.com/in/sajanraj-t-d-723226111/) 
 [![Gmail Badge](https://img.shields.io/badge/-sajanraj.t.d@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajanraj.t.d@gmail.com)](sajanraj.t.d@gmail.com)
 ---
 ### Hola Amigo👋
