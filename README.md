@@ -3,10 +3,10 @@
 
 
 # Sajanraj T D
-[![wordPress Badge](https://img.shields.io/badge/sajanraj-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://sajanrajtd.wordpress.com/)](https://sajanrajtd.wordpress.com/)
-[![Linkedin Badge](https://img.shields.io/badge/sajanraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajanraj-t-d-723226111/)](https://www.linkedin.com/in/sajanraj-t-d-723226111/)
+[![wordPress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://sajanrajtd.wordpress.com/)](https://sajanrajtd.wordpress.com/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajanraj-t-d-723226111/)](https://www.linkedin.com/in/sajanraj-t-d-723226111/)
 [![Gmail Badge](https://img.shields.io/badge/-sajanraj.t.d@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajanraj.t.d@gmail.com)](sajanraj.t.d@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/sajanraj-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCuU487YFBNr8Iq3SIjZdfAw)](https://www.youtube.com/channel/UCuU487YFBNr8Iq3SIjZdfAw)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCuU487YFBNr8Iq3SIjZdfAw)](https://www.youtube.com/channel/UCuU487YFBNr8Iq3SIjZdfAw)
 ---
 ### Hola Amigo👋
 ---
@@ -23,3 +23,13 @@ Programmer (noun): A machine that turns coffee into code.
 
 ----------------------------------------------
 
+[![Corona Badge](https://img.shields.io/badge/Corona-India-green?style=flat-square&logo=GitHub&logoColor=white&link=https://sajanraj.github.io/gocoronago/)](https://sajanraj.github.io/gocoronago/)
+[![SLR Badge](https://img.shields.io/badge/SLR-Dataset-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Indian-Sign-Language-Recognition)](https://github.com/sajanraj/Indian-Sign-Language-Recognition)
+[![SLR Badge](https://img.shields.io/badge/Indian-SLR-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/SLRGUI)](https://github.com/sajanraj/SLRGUI)
+[![Geojson Badge](https://img.shields.io/badge/Indian-Geojson-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/india-geojson)](https://github.com/sajanraj/india-geojson)
+
+---------------------------------
+
+[![OCR Badge](https://img.shields.io/badge/PyQT-OCR-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Optical-Character-Recognition)](https://github.com/sajanraj/Optical-Character-Recognition)
+[![Face Badge](https://img.shields.io/badge/PyQT-FaceRecognize-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Face-Detection-Live-QT)](https://github.com/sajanraj/Face-Detection-Live-QT)
+[![Style Badge](https://img.shields.io/badge/DeepL-StyleTransfer-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/CNN-Style-Transfer)](https://github.com/sajanraj/CNN-Style-Transfer)
