@@ -3,8 +3,8 @@
 
 
 # Sajanraj T D
-## 1st Lesson - "Do It For Staisfaction, Not For Price And Everthing Will Be So Much Better."
-## 2nd Lesson - Never-Ever-Follow Quotes Create One
+### 1st Lesson - "Do It For Staisfaction, Not For Price And Everthing Will Be So Much Better."
+### 2nd Lesson - Never-Ever-Follow Quotes Create One
 
 [![wordPress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://sajanrajtd.wordpress.com/)](https://sajanrajtd.wordpress.com/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajanraj-t-d-723226111/)](https://www.linkedin.com/in/sajanraj-t-d-723226111/)
