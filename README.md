@@ -1,3 +1,6 @@
+
+
+
 ![alt text](https://github.com/sajanraj/sajanraj.github.io/blob/master/images/Cat_eye.png)
 
 
@@ -36,3 +39,8 @@ Programmer (noun): A machine that turns coffee into code.
 [![OCR Badge](https://img.shields.io/badge/PyQT-OCR-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Optical-Character-Recognition)](https://github.com/sajanraj/Optical-Character-Recognition)
 [![Face Badge](https://img.shields.io/badge/PyQT-FaceRecognize-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Face-Detection-Live-QT)](https://github.com/sajanraj/Face-Detection-Live-QT)
 [![Style Badge](https://img.shields.io/badge/DeepL-StyleTransfer-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/CNN-Style-Transfer)](https://github.com/sajanraj/CNN-Style-Transfer)
+
+----------------------------------------
+
+
+[![Sajanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajanraj&show_icons=true&theme=radical)](https://github.com/sajanraj/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajanraj&layout=compact&theme=radical)](https://github.com/sajanraj/github-readme-stats)
