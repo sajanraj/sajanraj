@@ -3,10 +3,8 @@
 
 ![alt text](https://github.com/sajanraj/sajanraj.github.io/blob/master/images/Cat_eye.png)
 
-
-
 # Sajanraj T D
-### 1st Lesson - "Do it for staisfaction, not for price and everthing will be so much better."
+### 1st Lesson - "Do it for satisfaction, not for the price, and everything will be so much better."
 ### 2nd Lesson - Never-Ever-Follow Quotes-> Create One
 
 [![wordPress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://sajanrajtd.wordpress.com/)](https://sajanrajtd.wordpress.com/)
