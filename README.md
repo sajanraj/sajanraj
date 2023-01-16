@@ -41,4 +41,19 @@ Programmer (noun): A machine that turns coffee into code.
 ----------------------------------------
 
 
-[![Sajanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajanraj&show_icons=true&theme=radical)](https://github.com/sajanraj/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajanraj&layout=compact&theme=radical)](https://github.com/sajanraj/github-readme-stats)
+[![Sajanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajanraj&show_icons=true&theme=radical)](https://github.com/sajanraj/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajanraj&layout=compact&theme=radical)](https://github.com/sajanraj/github-readme-stats)
+
+<p align="center">
+
+<div> 
+  <p align="center" style="width: 48%;"> Agile (Small Dev) <br>
+      <img width="50%" height="20%" src="https://github.com/sajanraj/sajanraj/blob/master/images/Agile.jpeg">
+  </p>
+  <p align="center" style="width: 48%;"> DevOps (Large Dev)  <br>
+      <img width="50%" height="20%" src="https://github.com/sajanraj/sajanraj/blob/master/images/DevOps.jpg">
+  </p> 
+</div> 
+
+  
+ 
+</p>
