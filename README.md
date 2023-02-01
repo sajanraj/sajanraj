@@ -40,6 +40,9 @@ Programmer (noun): A machine that turns coffee into code.
 
 ----------------------------------------
 
+![Profile Visit](https://profile-counter.glitch.me/sajanraj/count.svg)
+
+----------------------------------------
 
 [![Sajanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajanraj&show_icons=true&theme=radical)](https://github.com/sajanraj/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajanraj&layout=compact&theme=radical)](https://github.com/sajanraj/github-readme-stats)
 
@@ -54,6 +57,4 @@ Programmer (noun): A machine that turns coffee into code.
   </p> 
 </div> 
 
-  
- 
 </p>
