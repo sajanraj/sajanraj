@@ -37,8 +37,11 @@ Programmer (noun): A machine that turns coffee into code.
 [![OCR Badge](https://img.shields.io/badge/PyQT-OCR-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Optical-Character-Recognition)](https://github.com/sajanraj/Optical-Character-Recognition)
 [![Face Badge](https://img.shields.io/badge/PyQT-FaceRecognize-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Face-Detection-Live-QT)](https://github.com/sajanraj/Face-Detection-Live-QT)
 [![Style Badge](https://img.shields.io/badge/DeepL-StyleTransfer-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/CNN-Style-Transfer)](https://github.com/sajanraj/CNN-Style-Transfer)
+[![Style Badge](https://img.shields.io/badge/Blog-AcademicPage-C3ACD0?style=flat-square&logo=GitHub&logoColor=white&link=https://sajanraj.github.io/academicpages.github.io)](https://sajanraj.github.io/academicpages.github.io)
+[![Style Badge](https://img.shields.io/badge/Blog-ResumeStyle-C3ACD0?style=flat-square&logo=GitHub&logoColor=white&link=https://sajanraj.github.io)](https://sajanraj.github.io)
 
-----------------------------------------
+
+-------------------------------------------
 
 ![Profile Visit](https://profile-counter.glitch.me/sajanraj/count.svg)
 
