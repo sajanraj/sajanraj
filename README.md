@@ -1,4 +1,6 @@
-<!--       [![sajan](images/sajanraj.gif)](https://sajanrajtd.wordpress.com/) -->
+
+[![sajan](<images/banner1080x150 px.png>)](https://sajanrajtd.wordpress.com/)
+
 ----------------------------------------------------------------
 <video width="1080" height="150" autoplay>
   <source src="https://github.com/sajanraj/sajanraj.github.io/blob/193026c78cdf65a476ac52d8d5640920a34cd7c6/images/rajcreations.mp4" type="video/mp4">
