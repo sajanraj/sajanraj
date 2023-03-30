@@ -1,6 +1,7 @@
-[![sajan](images/sajanraj.gif)](https://sajanrajtd.wordpress.com/)
+<!--       [![sajan](images/sajanraj.gif)](https://sajanrajtd.wordpress.com/) -->
+<img src="images/sajanraj.gif" width="100%" height="10%"/>
 
-![alt text](https://github.com/sajanraj/sajanraj.github.io/blob/master/images/Cat_eye.png)
+<!-- ![alt text](https://github.com/sajanraj/sajanraj.github.io/blob/master/images/Cat_eye.png) -->
 
 # Sajanraj T D
 ### 1st Lesson - "Do it for satisfaction, not for the price, and everything will be so much better."
