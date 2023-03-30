@@ -32,7 +32,7 @@ Programmer (noun): A machine that turns coffee into code.
 ----------------------------------------------
 
 [![Corona Badge](https://img.shields.io/badge/Corona-India-green?style=flat-square&logo=GitHub&logoColor=white&link=https://sajanraj.github.io/gocoronago/)](https://sajanraj.github.io/gocoronago/)
-[![SLR Ba[![sajan](images/sajanraj.gif)](https://sajanrajtd.wordpress.com/)dge](https://img.shields.io/badge/SLR-Dataset-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Indian-Sign-Language-Recognition)](https://github.com/sajanraj/Indian-Sign-Language-Recognition)
+[![SLR Badge](https://img.shields.io/badge/SLR-Dataset-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Indian-Sign-Language-Recognition)](https://github.com/sajanraj/Indian-Sign-Language-Recognition)
 [![SLR Badge](https://img.shields.io/badge/Indian-SLR-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/SLRGUI)](https://github.com/sajanraj/SLRGUI)
 [![Geojson Badge](https://img.shields.io/badge/Indian-Geojson-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/india-geojson)](https://github.com/sajanraj/india-geojson)
 
