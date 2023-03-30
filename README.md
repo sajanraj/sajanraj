@@ -1,5 +1,4 @@
-
-
+[![sajan](images/sajanraj.gif)](https://sajanrajtd.wordpress.com/)
 
 ![alt text](https://github.com/sajanraj/sajanraj.github.io/blob/master/images/Cat_eye.png)
 
@@ -28,7 +27,7 @@ Programmer (noun): A machine that turns coffee into code.
 ----------------------------------------------
 
 [![Corona Badge](https://img.shields.io/badge/Corona-India-green?style=flat-square&logo=GitHub&logoColor=white&link=https://sajanraj.github.io/gocoronago/)](https://sajanraj.github.io/gocoronago/)
-[![SLR Badge](https://img.shields.io/badge/SLR-Dataset-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Indian-Sign-Language-Recognition)](https://github.com/sajanraj/Indian-Sign-Language-Recognition)
+[![SLR Ba[![sajan](images/sajanraj.gif)](https://sajanrajtd.wordpress.com/)dge](https://img.shields.io/badge/SLR-Dataset-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/Indian-Sign-Language-Recognition)](https://github.com/sajanraj/Indian-Sign-Language-Recognition)
 [![SLR Badge](https://img.shields.io/badge/Indian-SLR-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/SLRGUI)](https://github.com/sajanraj/SLRGUI)
 [![Geojson Badge](https://img.shields.io/badge/Indian-Geojson-green?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sajanraj/india-geojson)](https://github.com/sajanraj/india-geojson)
 
@@ -44,7 +43,9 @@ Programmer (noun): A machine that turns coffee into code.
 -------------------------------------------
 Profile Visit Count:- 
 
-![Profile Visit](https://profile-counter.glitch.me/sajanraj/count.svg)
+![Profile Visit](https://profile-counter.glitch.me/sajanraj/count.svg) 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sajanraj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajanraj" /></a></p><br><br><br><br>
 
 ----------------------------------------
 
@@ -62,3 +63,7 @@ Profile Visit Count:-
 </div> 
 
 </p>
+
+
+
+
