@@ -1,11 +1,9 @@
 
-[![banner](https://github.com/sajanraj/sajanraj/blob/f0c2199cc8a07296e6d86ae3f410be32ae7b2c46/images/banner1080x150%20px.png)](https://sajanrajtd.wordpress.com/)
+<!-- [![banner](https://github.com/sajanraj/sajanraj/blob/f0c2199cc8a07296e6d86ae3f410be32ae7b2c46/images/banner1080x150%20px.png)](https://sajanrajtd.wordpress.com/)-->
+
+[![bannergif](https://github.com/sajanraj/sajanraj/blob/61c239d1f840d69832082ba6c6e8929fab1b3acd/images/sajanraj.gif)](https://sajanrajtd.wordpress.com/)
 
 ----------------------------------------------------------------
-<video width="1080" height="150" autoplay>
-  <source src="https://github.com/sajanraj/sajanraj.github.io/blob/193026c78cdf65a476ac52d8d5640920a34cd7c6/images/rajcreations.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 <!-- ![alt text](https://github.com/sajanraj/sajanraj.github.io/blob/master/images/Cat_eye.png) -->
 
