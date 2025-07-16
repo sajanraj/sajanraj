@@ -46,9 +46,6 @@ Programmer (noun): A machine that turns coffee into code.
 
 
 -------------------------------------------
-Profile Visit Count:- 
-
-![Profile Visit](https://profile-counter.glitch.me/sajanraj/count.svg) 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sajanraj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajanraj" /></a></p><br><br><br><br>
 
@@ -68,7 +65,6 @@ Profile Visit Count:-
 </div> 
 
 </p>
-
 
 
 
