@@ -2,9 +2,9 @@
 
 # Dr. Sajanraj T D
 
-**Software & Data Science Engineer | KTP Associate | Applied AI for Transport Analytics**
+**HPC Specialist | Research HPC Team | Loughborough University**
 
-I work on UKRI-funded R&D for **passenger information analytics** in the UK rail industry. I build **scalable data platforms** and **ML models** for **forecasting**, **anomaly detection**, and **decision support**.
+I work in the research HPC team at **Loughborough University**, supporting high-performance computing for research workloads and enabling scalable compute environments for researchers.
 
 ## Links
 
@@ -16,9 +16,9 @@ I work on UKRI-funded R&D for **passenger information analytics** in the UK rail
 
 ## Focus
 
-- **Transport analytics:** passenger flow forecasting, performance monitoring, decision support
-- **Machine learning:** time-series forecasting, anomaly detection, applied ML systems
-- **Data engineering:** reliable pipelines, data products, scalable platforms
+- **High-performance computing:** research compute support, job scheduling, performance tuning
+- **Research infrastructure:** scalable environments, user support, workflow enablement
+- **Data engineering & ML:** reliable pipelines, applied ML systems, data products
 
 ## Featured projects
 
@@ -44,7 +44,7 @@ A selection of projects from my GitHub (more on my website):
 
 ## Collaboration
 
-I’m open to collaborating on **applied ML**, **forecasting**, **transport systems**, and **data platforms**.
+I’m open to collaborating on **HPC**, **research computing**, **applied ML**, **workflow automation**, and **data platforms**.
 
 ---
 
